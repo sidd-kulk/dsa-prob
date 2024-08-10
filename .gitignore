@@ -1,0 +1,24 @@
+# Ignore build output
+/dist/
+/out/
+
+# Ignore dependencies
+/node_modules/
+
+# Ignore environment-specific files
+.env
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore compiled JavaScript files
+*.js
+*.js.map
+
+# Ignore TypeScript declaration files
+*.d.ts
